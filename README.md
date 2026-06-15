@@ -1,5 +1,5 @@
 # Hi, I'm Khan Mohammad Shafi 👋
-# Khan Mohammad Shafi (khan_shafi5433) 👋
+
 
 Welcome to my official developer profile. If you searched for **khan_shafi5433** on Google or social media, this is my primary GitHub workspace.
 
